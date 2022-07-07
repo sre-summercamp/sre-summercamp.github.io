@@ -16,17 +16,11 @@ Clone this repo and its submodule using:
 git clone --recurse-submodules git@github.com:sre-summercamp/sre-summercamp.github.io.git
 ```
 
-### 3. Build the theme
+### 3. Theme customization (optional)
 
-You'll need `npm` installed on your computer
-
-```shell
-pushd themes/devfest-theme-hugo
-npm install
-npm run build
-popd
-```
-This step will be probably removed and replaced by compiled version of this theme.
+If you want to customize the theme (CSS, JS, etc) you need to clone the repo
+https://github.com/sre-summercamp/devfest-theme-hugo and build a new version
+following its own instructions.
 
 ### 4. Start the Hugo server
 
