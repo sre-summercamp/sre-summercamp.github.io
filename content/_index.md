@@ -113,7 +113,7 @@ Savoie Technolac fédère un écosystème d’entreprises, de centres de recherc
 
 <!-- ... -->
 
-{{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
+{{% album images="/images/album/highres_497810405.jpeg,/images/album/highres_471809582.jpeg,/images/album/highres_488781248.jpeg,/images/album/highres_504348587.jpeg,/images/album/highres_499354408.jpeg,/images/album/highres_485007723.jpeg,/images/album/highres_472815594.jpeg,/images/album/highres_474733813.jpeg" %}}
 
 ### Some pictures of the **Savoie Technolac** with the 👾 _retro-gaming_ theme.
 
