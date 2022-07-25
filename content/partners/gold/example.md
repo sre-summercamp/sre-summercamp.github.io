@@ -1,5 +1,5 @@
 ---
-key: example_1
+key: example
 title: Example
 category: gold
 order: 2
