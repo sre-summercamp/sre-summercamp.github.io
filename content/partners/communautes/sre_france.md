@@ -2,7 +2,7 @@
 key: sre_france
 title: SRE France
 category: communautes
-logo: /images/partners/communautes/logo-sre_france.jpg
+logo: /images/partners/communautes/sre_france.jpg
 website: 'https://sre-france.github.io'
 socials: []
 ---

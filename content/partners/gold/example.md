@@ -3,7 +3,7 @@ key: example
 title: Example
 category: gold
 order: 2
-logo: /images/partners/gold/logo-example.jpg
+logo: /images/partners/gold/example.jpg
 website: 'http://www.example.com'
 lang: fr
 why: What else ?
