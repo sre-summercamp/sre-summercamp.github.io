@@ -11,8 +11,8 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="SummerCamp 2022" %}}
 
-## August 27, 2022
-### Savoie Technolac
+## September 3-4, 2022
+### La Dynamo Chambéry
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
 
