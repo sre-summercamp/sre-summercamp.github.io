@@ -1,16 +1,16 @@
 id: sre-france-summercamp-2022
 name: SummerCamp 2022
 address:
-  formattedAddress: "Savoie Technolac, 16 Av. du Lac du Bourget, 73374 Le Bourget-du-Lac"
+  formattedAddress: "La Dynamo, 24 avenue Daniel Rops, 73000 CHAMBERY"
   locality:
-    short_name: Bourget-du-Lac
-    long_name: Bourget-du-Lac
+    short_name: Chambéry
+    long_name: Chambéry
   country:
     short_name: FR
     long_name: France
   latLng:
-    lat: 45.64381
-    lng: 5.8656425
+    lat: 45.5901756
+    lng: 5.9181942
 dates:
-  start: '2022-08-22T09:00:00.000Z'
-  end: '2022-08-23T17:00:00.000Z'
+  start: '2022-09-03T09:00:00.000Z'
+  end: '2022-09-04T17:00:00.000Z'

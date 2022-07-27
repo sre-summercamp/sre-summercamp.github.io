@@ -99,15 +99,15 @@ A tech conference close to nature
 
 {{% home-location
     image="/images/map.jpg"
-    address="16 Av. du Lac du Bourget, 73374 Le Bourget-du-Lac"
-    latitude="45.64381"
-    longitude="5.8656425" %}}
+    address="24 Avenue Daniel Rops, 73000 Chambéry"
+    latitude="45.5901756"
+    longitude="5.9181942" %}}
 
 ## Le lieu
 
-### Savoie Technolac
+### La Dynamo
 
-Savoie Technolac fédère un écosystème d’entreprises, de centres de recherche et d’enseignement supérieur tels que le CIH d’EDF, l’INES CEA, Energy Pool, une myriade de start up, l’Université Savoie Mont Blanc… pour faire des énergies un enjeu de développement économique.
+Installée à l’entrée du Quartier prioritaire Politique de la Ville des Hauts de Chambéry et ouvert au printemps 2018, la Dynamo, établissement municipal de la ville de Chambéry, est aujourd’hui un lieu d’expérimentation et d’innovation sociale qui abrite un écosystème d’acteurs, de services et d’activités dédiés à la jeunesse, au numérique, à l’insertion professionnelle, aux cultures urbaines, à l’innovation sociale et aux relations internationales.
 
 {{% /home-location %}}
 
