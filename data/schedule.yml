@@ -1,0 +1,70 @@
+- day: '2022-09-03'
+  start: '09:00'
+  rooms:
+    - room: room1
+      slots:
+        - slot: open
+          talk: __open
+        - slot: keynote-open
+          talk: keynote_open
+        - slot: pause-1
+          talk: __pause
+        - slot: slot-1
+          talk: talk_1
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-2
+          talk: talk_2
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-lt-1
+          talk: activity_1
+        - slot: party
+          talk: __party
+    - room: room2
+      slots:
+        - slot: slot-1
+          talk: talk_3
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-2
+          talk: talk_4
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-lt-1
+          talk: activity_2
+- day: '2022-09-04'
+  start: '09:00'
+  rooms:
+    - room: room1
+      slots:
+        - slot: open
+          talk: __open
+        - slot: keynote-open
+          talk: keynote_open
+        - slot: pause-1
+          talk: __pause
+        - slot: slot-1
+          talk: talk_5
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-2
+          talk: talk_6
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-lt-1
+          talk: activity_3
+        - slot: party
+          talk: __party
+    - room: room2
+      slots:
+        - slot: slot-1
+          talk: talk_7
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-2
+          talk: talk_8
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-lt-1
+          talk: activity_4

@@ -1,0 +1,6 @@
+- key: room1
+  label: Sud
+  description: Main room
+- key: room2
+  label: Nord
+  description: Session room
