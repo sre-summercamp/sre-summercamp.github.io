@@ -16,7 +16,7 @@ menu:
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
 
-<a class="btn primary btn-lg" href="https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml">
+<a class="btn primary btn-lg" href="/cfp/">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
 </a>
 
@@ -39,7 +39,7 @@ A tech conference close to nature
 ## Featured Speakers
 
 {{< button-link label="Submit a presentation"
-                url="https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml"
+                url="/cfp/"
                 icon="cfp" >}}
 <!--
 {{< button-link label="See all speakers"
