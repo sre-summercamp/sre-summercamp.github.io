@@ -10,7 +10,7 @@ enableMissingTranslationPlaceholders = true
 [params]
     title = "SummerCamp 2022"
     date = "2022-08-22"
-    description = "A tech conference close to nature"
+    description = "Un événement qui met en avant les discussions sur les sujets DevOps et SRE en proposant un cadre naturel et des activités favorisant le partage"
     images = ["/images/social-share.jpg"]
     email = "srefranceasso+summercamp@gmail.com"
     keywords = "event, cloud, sre, devops, summercamp"
