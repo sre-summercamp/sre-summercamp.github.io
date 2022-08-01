@@ -17,12 +17,10 @@ menu:
 <a class="btn primary btn-lg" href="https://www.eventbrite.com/e/sre-france-summer-camp-tickets-394252900037">
     <svg class="icon icon-ticket"><use xlink:href="#ticket"></use></svg>Inscription
 </a>
-
 <a class="btn primary btn-lg" href="/fr/cfp/">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Proposer une présentation
 </a>
-
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Devenez sponsor</a>
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="/summercamp-2022-deck.pdf" target="_blank">Devenez sponsor</a>
 
 {{% /jumbo %}}
 
