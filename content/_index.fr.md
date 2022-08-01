@@ -51,15 +51,6 @@ A tech conference close to nature
 
 {{% /home-speakers %}}
 
-
-<!-- ... -->
-
-{{% home-subscribe  class="primary" %}}
-
-## Soyez notifiez des dernières informations !
-
-{{% /home-subscribe %}}
-
 <!-- ... -->
 
 <!--

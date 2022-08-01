@@ -54,14 +54,6 @@ A tech conference close to nature
 
 <!-- ... -->
 
-{{% home-subscribe  class="primary" %}}
-
-## Get notified about the important conference updates
-
-{{% /home-subscribe %}}
-
-<!-- ... -->
-
 <!--
 {{% home-tickets %}}
 # Tickets
