@@ -12,7 +12,7 @@ enableMissingTranslationPlaceholders = true
     date = "2022-08-22"
     description = "A tech conference close to nature"
     images = ["/images/social-share.jpg"]
-    email = "sre-summercamp@gmail.com"
+    email = "srefranceasso+summercamp@gmail.com"
     keywords = "event, cloud, sre, devops, summercamp"
     copyright = "Made with :heart:️ by SRE France"
     cfpUrl = "https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml"
