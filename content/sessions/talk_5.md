@@ -1,6 +1,6 @@
 ---
 key: talk_5
-title: 'Talk about Infrastructure'
+title: TBD
 id: 0MXH99ApNY9xyeurYCmA
 format: conference
 tags:
@@ -10,4 +10,4 @@ speakers:  []
 presentation: null
 draft: false
 ---
-Abstract...
+Abstract will be available soon.
