@@ -16,7 +16,7 @@ enableMissingTranslationPlaceholders = true
     keywords = "event, cloud, sre, devops, summercamp"
     copyright = "Made with :heart:️ by SRE France"
     cfpUrl = "https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml"
-    subscriptionUrl = "https://www.eventbrite.com/"
+    subscriptionUrl = "https://www.eventbrite.com/e/sre-france-summer-camp-tickets-394252900037"
     appleTouchIcon = "/apple-touch-icon.png"
     favicon32 = "/favicon-32x32.png"
     favicon16 = "/favicon-16x16.png"
