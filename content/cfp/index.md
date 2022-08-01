@@ -30,6 +30,6 @@ Two types of conferences are available:
 
 ## Let's propose a talk!
 
-As explained above, the CFP will be opened till August 28, 2022. So do not wait till the last minute to [propose yours](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml)!
+As explained above, the CFP will be opened until August 28, 2022. Do not wait until the last minute to [propose yours](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml)!
 
 If you have any questions, you can contact us at sre-summercamp@gmail.com.
