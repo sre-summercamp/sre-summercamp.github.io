@@ -116,7 +116,7 @@ Installée à l’entrée du Quartier prioritaire Politique de la Ville des Haut
 
 <!-- ... -->
 
-{{% album images="/images/album/highres_497810405.jpeg,/images/album/highres_471809582.jpeg,/images/album/highres_488781248.jpeg,/images/album/highres_504348587.jpeg,/images/album/highres_499354408.jpeg,/images/album/highres_485007723.jpeg,/images/album/highres_472815594.jpeg,/images/album/highres_474733813.jpeg" %}}
+{{% album images="/images/album/highres_497810405.jpeg,/images/album/highres_471809582.jpeg,/images/album/highres_488781248.jpeg,/images/album/highres_504348587.jpeg,/images/album/la-dynamo.jpg,/images/album/highres_485007723.jpeg,/images/album/highres_472815594.jpeg,/images/album/highres_474733813.jpeg" %}}
 
 ### Some pictures of our previous SRE France meetups
 
