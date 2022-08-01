@@ -18,11 +18,11 @@ menu:
     <svg class="icon icon-ticket"><use xlink:href="#ticket"></use></svg>Registration
 </a>
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
-
 <a class="btn primary btn-lg" href="/cfp/">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
 </a>
+
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
 
 {{% /jumbo %}}
 
