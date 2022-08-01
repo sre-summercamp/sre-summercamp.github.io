@@ -33,5 +33,4 @@ OF COURSE - before all, it's a tech event with conferences - you will find an ac
 
 ### How much does it cost?
 
-Conferences access is free while participating to the whole event will cost you 15euros to cover lunch expenses and outdoor activities.
-
+Conferences access is free while participating to the whole event will cost you 15euros to cover lunch expenses and outdoor activities. For the tickets, it's [here](https://www.eventbrite.com/e/sre-france-summer-camp-tickets-394252900037)!

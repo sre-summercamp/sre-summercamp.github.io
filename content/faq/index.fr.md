@@ -34,4 +34,4 @@ Bien sûr, c'est avant tout un week-end d'échange et de conférences. Ce n'est 
 
 ### Combien ça coûte ?
 
-L'accès aux conférences à La Dynamo Chambéry est entièrement gratuit, une participation à hauteur de 15€ est demandée pour participer aux activités et pour couvrir les repas du midi et les collations.
+L'accès aux conférences à La Dynamo Chambéry est entièrement gratuit, une participation à hauteur de 15€ est demandée pour participer aux activités et pour couvrir les repas du midi et les collations. Dans les deux cas, il y a un passage par la [billeterie](https://www.eventbrite.com/e/sre-france-summer-camp-tickets-394252900037)
