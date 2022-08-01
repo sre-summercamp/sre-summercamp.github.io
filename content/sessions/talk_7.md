@@ -1,6 +1,6 @@
 ---
 key: talk_7
-title: 'Talk about SRE methods'
+title: TBD
 id: 2S9QOaGq3ouHnkivEDKC
 language: English
 format: conference
@@ -11,4 +11,4 @@ speakers: []
 presentation: null
 draft: false
 ---
-Abstract...
+Abstract will be available soon.

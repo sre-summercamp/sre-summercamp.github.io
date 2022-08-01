@@ -1,6 +1,6 @@
 ---
 key: activity_4
-title: 'Outdoor Activity 4'
+title: 'Outdoor Activity TBD'
 id: 0MXH93w8NY9xyeurYCrP
 format: conference
 tags: []
@@ -9,4 +9,4 @@ speakers:  []
 presentation: null
 draft: false
 ---
-Abstract...
+Activity details will be available soon.
