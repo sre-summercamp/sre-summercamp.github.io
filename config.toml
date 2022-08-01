@@ -23,6 +23,7 @@ enableMissingTranslationPlaceholders = true
     manifest = "/manifest.json"
     safariPinnedTab = "/safari-pinned-tab.svg"
     themeColor = "#ff5c5c"
+    env = "production"
 
 [params.logos]
     jumbo = "/images/logos/summercamp_color_text.png"
