@@ -14,6 +14,10 @@ menu:
 ## September 3-4, 2022
 ### La Dynamo Chambéry
 
+<a class="btn primary btn-lg" href="https://www.eventbrite.com/e/sre-france-summer-camp-tickets-394252900037">
+    <svg class="icon icon-ticket"><use xlink:href="#ticket"></use></svg>Registration
+</a>
+
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
 
 <a class="btn primary btn-lg" href="/cfp/">
