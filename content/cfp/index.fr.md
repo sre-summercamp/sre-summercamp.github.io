@@ -29,4 +29,6 @@ Deux types de présentations sont proposées :
 
 Les soumissions sont ouvertes jusqu'au 21 août 2022. N'attendez pas le dernier moment, [soumettez un talk dès à présent](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml) !
 
+Pour envoyer vos propositions il faut un compte Github, mais si vous n'avez pas de compte vous pouvez toujours envoyer votre abstract par e-mail à l'adresse srefranceasso+summercamp@gmail.com en incluant le titre, votre nom, la durée et l'abstract.
+
 Des questions ? Vous pouvez écrire un message à l'équipe à srefranceasso+summercamp@gmail.com.

@@ -32,4 +32,6 @@ Two types of conferences are available:
 
 As explained above, the CFP will be opened until August 21, 2022. Do not wait until the last minute to [propose yours](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml)!
 
+The submission form requires a Github account, but if you don't have an account you can always send your abstract by e-mail to srefranceasso+summercamp@gmail.com including a title, your name, duration and the abstract.
+
 If you have any questions, you can contact us at srefranceasso+summercamp@gmail.com.
