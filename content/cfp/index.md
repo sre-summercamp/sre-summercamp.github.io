@@ -5,7 +5,7 @@ draft: false
 ---
 SRE Summer Camp will take place on September 3-4, 2022 at La Dynamo Chambéry.
 
-While waiting for the D-day do not hesitate to propose your talk at [CFP](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml). It is now open until August 28, 2022.
+While waiting for the D-day do not hesitate to propose your talk at [CFP](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml). It is now open until August 21, 2022.
 
 
 ## Categories
@@ -30,6 +30,6 @@ Two types of conferences are available:
 
 ## Let's propose a talk!
 
-As explained above, the CFP will be opened until August 28, 2022. Do not wait until the last minute to [propose yours](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml)!
+As explained above, the CFP will be opened until August 21, 2022. Do not wait until the last minute to [propose yours](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml)!
 
 If you have any questions, you can contact us at srefranceasso+summercamp@gmail.com.
