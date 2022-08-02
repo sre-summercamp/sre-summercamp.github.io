@@ -51,7 +51,7 @@ unsafe= true
     languageName = "fr"
 
 [languages.fr.params]
-    description = "Une rencontre tech proche de la nature"
+    description = "Un événement qui met en avant les discussions sur les sujets DevOps et SRE en proposant un cadre naturel et des activités favorisant le partage"
 
 [taxonomies]
   tag = "tags"
