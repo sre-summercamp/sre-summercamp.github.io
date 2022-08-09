@@ -34,4 +34,11 @@ As explained above, the CFP will be opened until August 21, 2022. Do not wait un
 
 The submission form requires a Github account, but if you don't have an account you can always send your abstract by e-mail to srefranceasso+summercamp@gmail.com including a title, your name, duration and the abstract.
 
+Since it's the first edition of the Summer Camp, we friendly ask to the speaker to contribute to the financial effort in order to participate to lunches and outdoor activities: [https://www.eventbrite.com/e/sre-france-summer-camp-tickets-394252900037](https://www.eventbrite.com/e/sre-france-summer-camp-tickets-394252900037).
+
+
 If you have any questions, you can contact us at srefranceasso+summercamp@gmail.com.
+
+## Selection
+
+Talks are approved on the basis of First In, First Out, the team can provide some feedback on the talk content.
