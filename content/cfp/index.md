@@ -36,3 +36,7 @@ Since it's the first edition of the Summer Camp, we friendly ask to the speaker 
 
 
 If you have any questions, you can contact us at srefranceasso+summercamp@gmail.com.
+
+## Selection
+
+Talks are approved on the basis of First In, First Out, the team can provide some feedback on the talk content.

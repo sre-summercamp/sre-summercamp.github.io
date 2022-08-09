@@ -32,3 +32,7 @@ Les soumissions sont ouvertes jusqu'au 28 août 2022. N'attendez pas le dernier 
 Comme c'est la première édition du SummerCamp, on ne peut pas encore inviter les conférenciers. Donc une contribution financière de 15e est également demandée si le conférencier souhaite participer aux activités de l'après-midi et aux repas: [https://www.eventbrite.com/e/sre-france-summer-camp-tickets-394252900037](https://www.eventbrite.com/e/sre-france-summer-camp-tickets-394252900037)
 
 Des questions ? Vous pouvez écrire un message à l'équipe à srefranceasso+summercamp@gmail.com.
+
+## Phase de sélection
+
+Afin de laisser le temps aux conférenciers de s'organiser, les conférences sont acceptées au fur et à mesure de leur arrivée. L'équipe organisatrice (et la communauté) peut fournir quelques remarques constructives sur le contenu du talk.
