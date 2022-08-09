@@ -10,7 +10,7 @@
         - slot: pause-1
           talk: __pause
         - slot: slot-1
-          talk: talk_1
+          talk: secrets-race-conditions-and-statelessness
         - slot: pause-2
           talk: __pause
         - slot: slot-2
