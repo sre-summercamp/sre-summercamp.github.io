@@ -14,7 +14,7 @@
         - slot: pause-2
           talk: __pause
         - slot: slot-2
-          talk: talk_2
+          talk: kubernetes-at-no-scale
         - slot: lunch
           talk: __lunch
         - slot: slot-lt-1
