@@ -24,7 +24,7 @@
     - room: room2
       slots:
         - slot: slot-1
-          talk: talk_3
+          talk: une-cli-pour-les-gouverner-toutes
         - slot: pause-2
           talk: __pause
         - slot: slot-2
