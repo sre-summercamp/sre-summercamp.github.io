@@ -6,7 +6,7 @@ tags:
   - _cloud___infra
 level: intermediate
 language: Français
-format: quickie
+format: conference
 speakers:
   - arthur_busser
 presentation: null
