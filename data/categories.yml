@@ -34,3 +34,5 @@
   name: Party
 - key: pause
   name: Pause
+- key: round-table
+  name: Table ronde

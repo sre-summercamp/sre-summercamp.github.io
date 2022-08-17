@@ -15,6 +15,10 @@
           talk: __pause
         - slot: slot-2
           talk: kubernetes-at-no-scale
+        - slot: pause-3
+          talk: __pause
+        - slot: office-hours
+          talk: round_table_1
         - slot: lunch
           talk: __lunch
         - slot: slot-lt-1
@@ -50,6 +54,10 @@
           talk: __pause
         - slot: slot-2
           talk: talk_6
+        - slot: pause-3
+          talk: __pause
+        - slot: office-hours
+          talk: round_table_2
         - slot: lunch
           talk: __lunch
         - slot: slot-lt-1
