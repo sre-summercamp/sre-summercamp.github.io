@@ -9,8 +9,8 @@ address:
     short_name: FR
     long_name: France
   latLng:
-    lat: 45.5901756
-    lng: 5.9181942
+    lat: 45.59028480621147
+    lng: 5.920346292820766
 dates:
   start: '2022-09-03T09:00:00.000Z'
   end: '2022-09-04T17:00:00.000Z'

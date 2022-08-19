@@ -94,8 +94,8 @@ A tech conference close to nature
 {{% home-location
     image="/images/map.jpg"
     address="24 Avenue Daniel Rops, 73000 Chambéry"
-    latitude="45.5901756"
-    longitude="5.9181942" %}}
+    latitude="45.59028480621147"
+    longitude="5.920346292820766" %}}
 
 ## The venue
 
