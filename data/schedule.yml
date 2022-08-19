@@ -53,7 +53,7 @@
         - slot: pause-2
           talk: __pause
         - slot: slot-2
-          talk: talk_6
+          talk: de-sre-a-dre
         - slot: pause-3
           talk: __pause
         - slot: office-hours
