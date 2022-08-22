@@ -14,4 +14,4 @@ draft: false
 
 <!-- Parteners list -->
 
-{{< partners categories="gold,soutien,communautes" >}}
+{{< partners categories="gold,soutien,communautes,media" >}}

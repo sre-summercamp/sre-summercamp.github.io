@@ -121,7 +121,7 @@ Installée à l’entrée du Quartier prioritaire Politique de la Ville des Haut
 
 <!-- ... --> 
 
-{{% partners categories="gold,soutien,communautes" %}}
+{{% partners categories="gold,soutien,communautes,media" %}}
 ## Partners
 {{% /partners %}}
 
