@@ -45,7 +45,7 @@
         - slot: slot-2
           talk: de-sre-a-dre
         - slot: slot-3
-          talk: talk_8
+          talk: risques-erreurs-et-expertise
         - slot: pause-3
           talk: __pause
         - slot: office-hours
