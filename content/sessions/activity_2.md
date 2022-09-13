@@ -1,12 +1,15 @@
 ---
 key: activity_2
-title: 'Outdoor Activity TBD'
+title: "Hiking and Board games"
 id: 0MXH99V8NY9xyeurYCrP
-format: conference
+format: activity
 tags: []
-level: intermediate
+level: beginner
 speakers:  []
 presentation: null
 draft: false
 ---
-Activity details will be available soon.
+There are 2 available activities:
+
+1. Hiking across the mountains near Chambéry during 2 or 3 hours
+2. Several board games to play with everyone

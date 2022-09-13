@@ -53,6 +53,6 @@
         - slot: lunch
           talk: __lunch
         - slot: slot-lt-1
-          talk: activity_3
+          talk: activity_2
         - slot: party
           talk: __party
