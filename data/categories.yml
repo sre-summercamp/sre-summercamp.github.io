@@ -36,3 +36,5 @@
   name: Pause
 - key: round-table
   name: Table ronde
+- key: lightning-talks
+  name: "\U000026A1 Lightning Talks"
