@@ -3,7 +3,9 @@ key: activity_2
 title: "Hiking and Board games"
 id: 0MXH99V8NY9xyeurYCrP
 format: conference
-tags: []
+tags:
+  - hiking
+  - board-games
 level: beginner
 speakers:  []
 presentation: null

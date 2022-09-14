@@ -3,7 +3,9 @@ key: activity_1
 title: "Hiking and Climbing"
 id: 0MXH99V8NY9xyeurYCmD
 format: conference
-tags: []
+tags:
+  - hiking
+  - climbing
 level: beginner
 speakers:  []
 presentation: null

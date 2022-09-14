@@ -38,3 +38,9 @@
   name: "\U0001F399 Table ronde"
 - key: lightning-talks
   name: "\U000026A1 Lightning Talks"
+- key: hiking
+  name: "\U000026F0\U0001F97E Hiking"
+- key: climbing
+  name: "\U0001F9D7 Climbing"
+- key: board-games
+  name: "\U0001F3B2 Board Games"
