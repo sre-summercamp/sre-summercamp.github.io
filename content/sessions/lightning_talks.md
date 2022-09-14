@@ -1,5 +1,5 @@
 ---
-key: lightning_talks_1
+key: lightning_talks
 title: Lightning Talks
 level: tous
 format: quickie
