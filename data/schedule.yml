@@ -47,7 +47,7 @@
         - slot: slot-3
           talk: risques-erreurs-et-expertise
         - slot: pause-3
-          talk: __pause
+          talk: lightning_talks_1
         - slot: office-hours
           talk: round_table_2
         - slot: lunch
