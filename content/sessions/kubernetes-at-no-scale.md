@@ -14,4 +14,5 @@ draft: false
 videoId: E6c67ExbghA
 ---
 Kubernetes est souvent présenté comme l'outil de gestion pour les grandes entreprises, les grands déploiements.
+
 Dans ce talk, établie sur une expérience réelle @themecloud.io, nous verrons comment Kubernetes profite également aux petits projets, aux (toutes) petites équipes avec pourtant beaucoup de "legacy".
