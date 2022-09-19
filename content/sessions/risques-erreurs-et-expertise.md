@@ -11,6 +11,7 @@ speakers:
   - guilhem_lettron
 presentation: null
 draft: false
+videoId: mN5s9QMyZKg
 ---
 
 Bien que largement délaissé, la gestion du risque est pourtant à la base du métier de SRE.
