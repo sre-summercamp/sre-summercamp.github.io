@@ -10,6 +10,7 @@ level: intermediate
 speakers:
   - mathieu_corbin
 draft: false
+videoId: ZKOY1fw5zho
 ---
 L'écriture de scripts fait partie intégrante de nos métiers. On retrouve pourtant très souvent les mêmes problèmes en entreprise sur comment ces scripts sont écrits et distribués, comme par exemple:
 

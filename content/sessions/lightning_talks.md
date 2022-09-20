@@ -6,6 +6,7 @@ format: quickie
 tags: ['lightning-talks']
 speakers: []
 draft: false
+videoId: n_S3yrPr05A
 ---
 Une série de présentations spontanées de moins de 5 minutes avec de slides ou pas.
 

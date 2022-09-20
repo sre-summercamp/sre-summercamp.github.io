@@ -11,6 +11,7 @@ speakers:
   - arthur_busser
 presentation: null
 draft: false
+videoId: aSWjCOxZojU
 ---
 Race conditions during service upgrades are the worst. Particularly when a service and its configuration are both updated at the same time, asynchronously, and something goes subtly wrong. In some cases, we end up with inconsistency between multiples instances of the same stateless service.
 

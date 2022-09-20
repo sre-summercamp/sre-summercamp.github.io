@@ -10,6 +10,7 @@ speakers:
   - benoit_goujon
 presentation: null
 draft: false
+videoId: nN-mR_6sJvs
 ---
 Dans ce talk, nous verrons comment les data engineers s'inspirent de leurs homologues SRE pour construire des infrastructures data plus résilientes.
 

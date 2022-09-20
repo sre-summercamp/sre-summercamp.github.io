@@ -10,6 +10,7 @@ level: intermediate
 speakers:
   - sacha_bernheim
 draft: false
+videoId: N4v-mY7knxk
 ---
 Companies struggle to provide an adequate development environment: rapid growth leads to a focus on production environments, while the developer teams scale at least as much the company and little to no effort is put on their daily work experience. An easy solution is to deploy a full application ecosystem for each developer, but it costs too much, so companies share those environments between developers. They should not.
 
